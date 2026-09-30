@@ -74,4 +74,4 @@ molecular and cellular reprogramming of metastatic lung adenocarcinoma.
 - Abdallah Ali - malignant state scoring scripts (Person 3)
 - Munawar Hraib - CTA prevalence, pseudobulk, and DE analysis (Person 4)
 - Dilawer Chofan - external cohort validation scripts (Person 5)
-main
+
