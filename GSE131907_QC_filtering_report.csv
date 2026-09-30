@@ -1,0 +1,6 @@
+"criterion","n_cells","percent_of_original"
+"nCount_RNA outside [100, 150000]",0,0
+"nFeature_RNA outside [200, 10000]",0,0
+"percent_mt > 20%",0,0
+"TOTAL removed (any criterion)",0,0
+"Cells retained",208506,100
