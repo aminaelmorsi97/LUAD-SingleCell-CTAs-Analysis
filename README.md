@@ -17,6 +17,15 @@ disease sites in malignant cells of lung adenocarcinoma?
 - **Quality control:** thresholds taken from the original publication's
   Methods (percent.mt ≤ 20%, nCount 100–150,000, nFeature 200–10,000)
 
+## 📦 Data Access & Large File Downloads
+
+Due to file size limitations on GitHub, large processing files and Seurat objects are hosted on Google Drive:
+
+| File Name | Description | Download Link |
+|-----------|-------------|---------------|
+| `GSE131907_malignant_portable.rds` | Processed Seurat object of discovery malignant cells (~227 MB) | [Download from Google Drive](https://drive.google.com/file/d/1SHXKbHVjJeI5AjAIoCOSTctK2i3wAZ5g/view?usp=share_link) | 
+> **Note:** Make sure to download these `.rds` files and place them in the working data directory before running downstream analysis scripts.
+
 ## 👥 Team & Responsibilities
 
 Work is divided by scientific function, on one shared pipeline, so that
